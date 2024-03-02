@@ -4,11 +4,11 @@
 Masters in Mathematics
 
 ### CERTIFICATIONS
-Advanced Certification in Data Science and AI | IIT Madras and Intellipaat | Feb 2023 - Feb 2024
-Data Science | IntelliPaat | June 2023
-Python For Data Science | IntelliPaat | November 2023
-Python Preparatory | IntelliPaat | November 2023
-SQL Developer Course | IntelliPaat | November 2023
+Advanced Certification in Data Science and AI - IIT Madras and Intellipaat
+Data Science - IntelliPaat
+Python For Data Science
+Python Preparatory 
+SQL Developer Course
 
 
 ### PROJECTS
