@@ -4,11 +4,11 @@
 Masters in Mathematics
 
 ### CERTIFICATIONS
-Advanced Certification in Data Science and AI - IIT Madras and Intellipaat
-Data Science - IntelliPaat
-Python For Data Science
-Python Preparatory 
-SQL Developer Course
+## Advanced Certification in Data Science and AI | IIT Madras and Intellipaat
+## Data Science - IntelliPaat
+## Python For Data Science - Intellipaat
+## Python Preparatory - Intellipaat
+## SQL Developer Course - Intellipaat
 
 
 ### PROJECTS
