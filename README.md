@@ -1,14 +1,14 @@
 # Aspiring Data Scientist
 
-### Education 
+## Education 
 Masters in Mathematics
 
-### CERTIFICATIONS
-## Advanced Certification in Data Science and AI | IIT Madras and Intellipaat
-## Data Science - IntelliPaat
-## Python For Data Science - Intellipaat
-## Python Preparatory - Intellipaat
-## SQL Developer Course - Intellipaat
+## CERTIFICATIONS
+#### Advanced Certification in Data Science and AI | IIT Madras and Intellipaat
+#### Data Science - IntelliPaat
+#### Python For Data Science - Intellipaat
+#### Python Preparatory - Intellipaat
+#### SQL Developer Course - Intellipaat
 
 
 ### PROJECTS
@@ -56,13 +56,11 @@ Masters in Mathematics
 - Analysed patients’ data to find insights like factors leading to heart disease, patient’s demographics.
 - Developed Decision Tree Classifier model for prediction and performed hyperparameter tuning for better accuracy.
 
-### TECHNICAL SKILLS
--- Python For Data Science - NumPy, Pandas, Data Visualization, Matplotlib, Seaborn.
--- Machine Learning - Classification, Regression, Decision Tree, Random Forest, Singular Value 
-                      Decomposition (SVD), Time Series Forecasting.
--- Deep Learning – Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural 
-                   Networks (RNN), Natural Language Processing (NLP), TensorFlow, Keras.
--- MS SQL – Data Wrangling with SQL, SQL Server Management Studio
--- MLOps - Azure Cloud, Deploying Machine Learning models
--- Power BI – Data Analysis Expressions (DAX), Data Visualization
--- MS Excel – Excel for Data Analytics, Data Visualization
+## TECHNICAL SKILLS
+#### Python For Data Science - NumPy, Pandas, Data Visualization, Matplotlib, Seaborn.
+#### Machine Learning - Classification, Regression, Decision Tree, Random Forest, Singular Value Decomposition (SVD), Time Series Forecasting.
+#### Deep Learning – Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Natural Language Processing (NLP), TensorFlow, Keras.
+#### MS SQL – Data Wrangling with SQL, SQL Server Management Studio
+#### MLOps - Azure Cloud, Deploying Machine Learning models
+#### Power BI – Data Analysis Expressions (DAX), Data Visualization
+#### MS Excel – Excel for Data Analytics, Data Visualization
