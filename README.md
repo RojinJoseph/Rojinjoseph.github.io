@@ -57,10 +57,17 @@ Masters in Mathematics
 - Developed Decision Tree Classifier model for prediction and performed hyperparameter tuning for better accuracy.
 
 ## TECHNICAL SKILLS
-#### Python For Data Science - NumPy, Pandas, Data Visualization, Matplotlib, Seaborn.
-#### Machine Learning - Classification, Regression, Decision Tree, Random Forest, Singular Value Decomposition (SVD), Time Series Forecasting.
-#### Deep Learning – Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Natural Language Processing (NLP), TensorFlow, Keras.
-#### MS SQL – Data Wrangling with SQL, SQL Server Management Studio
-#### MLOps - Azure Cloud, Deploying Machine Learning models
-#### Power BI – Data Analysis Expressions (DAX), Data Visualization
-#### MS Excel – Excel for Data Analytics, Data Visualization
+#### Python For Data Science 
+- NumPy, Pandas, Data Visualization, Matplotlib, Seaborn.
+#### Machine Learning 
+- Classification, Regression, Decision Tree, Random Forest, Singular Value Decomposition (SVD), Time Series Forecasting.
+#### Deep Learning 
+– Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Natural Language Processing (NLP), TensorFlow, Keras.
+#### MS SQL 
+– Data Wrangling with SQL, SQL Server Management Studio
+#### MLOps 
+- Azure Cloud, Deploying Machine Learning models
+#### Power BI 
+– Data Analysis Expressions (DAX), Data Visualization
+#### MS Excel 
+– Excel for Data Analytics, Data Visualization
